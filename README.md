@@ -1,12 +1,10 @@
 # archconf
 Arch Linux installation configuration file.
 <br>
-<br>
 <h3>[Author]</h3>
 <p>Name: Hoasker</p>
 <p>Organization: RealZealot Community</p>
 <p>Email: hoasker@realzealot.com</p>
-<br>
 <br>
 <h3>[Server]</h3>
 <p>Сервер/Server TeamSpeak 3</p>
@@ -17,13 +15,11 @@ Arch Linux installation configuration file.
 <p>Никнейм/Nickname (2): RealZealot</p>
 <p>ИП/IP: 92.63.203.125</p>
 <br>
-<br>
 <h3>[Social]</h3>
 <p>Vk: https://vk.com/hoasker</p>
 <p>Instagram: https://instagram.com/hoasker</p>
 <p>Telegram: https://telegram.me/Hoasker</p>
 <p>Twitter: https://twitter.com/hoasker</p>
-<br>
 <br>
 <h3>[Instructions in English]</h3>
 <p>This script install ArchLinux GNOME + AUR.</p>
@@ -32,7 +28,6 @@ Arch Linux installation configuration file.
 <p>• Next, you can upload the script to your hosting and make a quick deployment of your system.</p>
 <p>• Upon completion of the script, you get your ready and configured system with all configs.</p>
 <p>• You only need to put it in order and that's all.</p>
-<br>
 <br>
 <h3>[Instructions in Russian]</h3>
 <p>Скрипт для персональной установки ArchLinux GNOME + AUR.</p>
