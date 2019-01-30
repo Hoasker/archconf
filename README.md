@@ -20,7 +20,7 @@ Arch Linux installation configuration file.
 <br>
 <h3>[Social]</h3>
 <p>Vk: https://vk.com/hoasker</p>
-<p>Instagram: https://instagram/hoasker</p>
+<p>Instagram: https://instagram.com/hoasker</p>
 <p>Telegram: https://telegram.me/Hoasker</p>
 <p>Twitter: https://twitter.com/hoasker</p>
 <br>
@@ -37,7 +37,7 @@ Arch Linux installation configuration file.
 <h3>[Instructions in Russian]</h3>
 <p>Скрипт для персональной установки ArchLinux GNOME + AUR.</p>
 <p>• Скрипт состоит из 3 частей.</p>
-<p>• Предварительно вам нужно сделать разметку дисков и настроить скрипт под свои нужды (программы, GNOME conf и т.д.).</p>
+<p>• Предварительно вам нужно сделать разметку дисков и настроить скрипт под себя (программы, GNOME conf и т.д.).</p>
 <p>• Далее, вы можете загрузить скрипт на совй хостинг и производить быстрое разворачивание вашей системы.</p>
 <p>• По завершению работы скрипта вы получаете вашу готовую и настроенную систему со всеми конфигами.</p>
 <p>• Вам ее нужно лишь немного привести в порядок и все.</p>
