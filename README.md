@@ -2,7 +2,7 @@
 Arch Linux installation configuration file.
 
 
-[Author]
+<h3>[Author]</h3>
 Name: Hoasker
 Organization: RealZealot Community
 Email: hoasker@realzealot.com
